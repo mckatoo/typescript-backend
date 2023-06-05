@@ -1,3 +1,6 @@
+import env from "../env.js";
 import { start } from "./server.js";
 
-start()
+const { HOST_NAME, PORT } = env
+
+start(HOST_NAME, PORT)

@@ -72,3 +72,8 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma
 
 Este projeto está licenciado sob a [MIT Licence](https://mit-license.org).
 Certifique-se de revisar o arquivo README.md após copiá-lo para o seu repositório para verificar se todas as informações estão corretas e se adaptam às necessidades do seu projeto.
+
+## Atualização do Workflow
+
+Este repositório contém um fluxo de trabalho pré configurado.
+Siga as instruções de como atualizar descritas neste [guia](.github/workflows/UPDATE.md).
